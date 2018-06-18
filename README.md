@@ -1,0 +1,2 @@
+# SideMenuSample
+SideMenuというライブラリのサンプルです。
